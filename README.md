@@ -17,17 +17,3 @@ This is a responsive **Password Generator** application built with HTML, CSS, an
 - **CSS3**: Styling and layout design.
 - **JavaScript**: Core functionality and interactivity.
 
-## Getting Started
-
-Follow the steps below to get a local copy of the project up and running.
-
-### Prerequisites
-
-- A web browser (e.g., Chrome, Firefox, Edge)
-- A text editor (e.g., VS Code)
-
-### Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/password-generator.git
